@@ -1,0 +1,3 @@
+Model sequence length: 10
+Number of epochs: 5
+Early stopping: No
